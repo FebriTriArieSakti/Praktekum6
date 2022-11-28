@@ -66,7 +66,6 @@ Kode Program :
         ```
         Hasli program :
         
-        https://github.com/FebriTriArieSakti/Praktekum6/blob/main/gambar/gbr2.PNG?raw=true
-
+        ![image](https://user-images.githubusercontent.com/115480501/204196975-435550d3-97d9-48f1-ab56-bf099717dd80.png)
 
 
