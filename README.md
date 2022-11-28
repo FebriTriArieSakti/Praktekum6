@@ -65,6 +65,8 @@ Kode Program :
         data[nama] = [nama,nim,tugas,uts,uas,akhir]
         ```
         Hasli program :
+        
+        https://github.com/FebriTriArieSakti/Praktekum6/blob/main/gambar/gbr2.PNG?raw=true
 
 
 
