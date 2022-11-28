@@ -66,6 +66,6 @@ Kode Program :
         ```
         Hasli program :
 
-![gambar](gbr2)
+![gambar](gbr2.PNG)
 
 
