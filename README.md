@@ -66,5 +66,6 @@ Kode Program :
         ```
         Hasli program :
 
-![image]![image](https://user-images.githubusercontent.com/115480501/204195327-41275356-6f0d-41cb-ad73-9af688493ff8.png)
+![gambar](gbr2)
+
 
